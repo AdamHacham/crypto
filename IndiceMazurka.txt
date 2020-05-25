@@ -1,0 +1,4 @@
+Nombre total de caractère : 186
+Nombre de similitude :  6
+Nombre de caractère de la partition divisée par 2 : 93
+Indice de Coïncidence : 6,451 %
